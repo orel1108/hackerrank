@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 
-n = int(raw_input().strip()
+n = int(raw_input().strip())
 a = []
 for _ in range(n):
     comm = raw_input().split()
